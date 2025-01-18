@@ -5,3 +5,6 @@
 ## Задание 16
 Результаты тестового прогона запросов В Postman в формате JSON
 - [@Решение](https://github.com/NikolaevaAR/api/blob/main/DemoShopping.postman_test_run.json)
+## Задание 17
+Коллекция запросов для тестирования SOAP в Postman
+- [@Решение](https://www.postman.com/avionics-pilot-14449528/workspace/demoshopping/collection/40954683-1d64366e-78ef-420b-96f4-5b51f79b153b?action=share&creator=40954683&active-environment=40954683-6fd751e1-b987-46b2-b621-618fe18b3d54)
